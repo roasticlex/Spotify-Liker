@@ -16,7 +16,7 @@ import ctypes
 # CONFIGURATION
 # --------------------------------------------------
 
-CLIENT_ID = "390b9ea4e8964e769259306b2c1ac02b"
+CLIENT_ID = "YOUR CLIENT ID"
 REDIRECT_URI = "http://127.0.0.1:8888/callback"
 
 SCOPES = (
