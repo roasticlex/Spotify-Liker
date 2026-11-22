@@ -1,5 +1,5 @@
 # **Spotify Liker**
-- This script will let you use a global shortcut (Ctrl+Shift+L) to like and (Ctrl+Shift+U) unlike songs globally (you could be inside a fullscreen game)
+- This script will let you use a global shortcut (Ctrl+Shift+L) to like and (Ctrl+Shift+U) unlike Spotify songs globally (you could be inside a fullscreen game)
 - Since it uses the official Spotify API with your account instead of hacky UI solutions this actually works :P
 - Plays narrator sounds of liked or unliked vice versa
 
